@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+net/sytes/legalfind/revenda_clone/MainActivity.java
+ net.sytes.legalfind.revenda_clone.MainActivity
+net/sytes/legalfind/revenda_clone/BuildConfig.java
+ net.sytes.legalfind.revenda_clone.BuildConfig
